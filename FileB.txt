@@ -1,4 +1,8 @@
 This is FileB
+<<<<<<< HEAD
 Let's make a change
 Making another change
 This is for squash merge
+=======
+This is a change
+>>>>>>> origin/master
